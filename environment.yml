@@ -1,0 +1,20 @@
+name: lab1
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - notebook
+  - pandas
+  - matplotlib
+  - tqdm
+  - pyqt
+  - qt
+  - spyder-kernels
+  - scikit-learn
+  - seaborn
+  - xgboost
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchaudio
+  - torchvision
+prefix: C:\Users\fitov\anaconda3\envs\lab1
